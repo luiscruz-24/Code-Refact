@@ -33,6 +33,8 @@ Home page <https://luiscruz-24.github.io/Homework1-Code-Refact/.>
 
 ![Horiseon Home Page](./assets/images/Home_Page.png)
 
+Luis Cruz Vargas
+
 ## Sources
 
 1. <https://www.w3schools.com/html/html5_semantic_elements.asp>
