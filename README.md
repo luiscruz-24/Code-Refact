@@ -27,7 +27,9 @@ THEN I find a concise, descriptive title
 ```
 ## Mock-up
 
-Horiseon Home Page Mock Up
+Home page <https://luiscruz-24.github.io/Homework1-Code-Refact/.>
+
+### Horiseon Home Page Mock Up
 
 ![Horiseon Home Page](./assets/images/Home_Page.png)
 
