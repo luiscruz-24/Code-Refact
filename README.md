@@ -35,7 +35,7 @@ Home page <https://luiscruz-24.github.io/Homework1-Code-Refact/.>
 
 Luis Cruz Vargas
 
-## Sources
+## References
 
 1. <https://www.w3schools.com/html/html5_semantic_elements.asp>
 2. <https://www.w3schools.com/css/css_selectors.asp>
